@@ -1,2 +1,6 @@
-# tuja
-Text Ui Json Assembler
+# TUJA
+
+`T`ext
+`U`I
+`J`son
+`A`ssembler
